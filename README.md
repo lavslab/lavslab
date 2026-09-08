@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <code>building things. breaking things. learning things.</code>
+  <code>this is where my random ideas become projects.</code>
 </p>
 
 ---
