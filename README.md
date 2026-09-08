@@ -38,17 +38,13 @@ This is where I build little ideas, experiment with new technologies, and occasi
 🎨 learning **Graphic Design**
 💻 rebuilding my coding muscles one commit at a time
 
- < github stats />
+< find me />
 
-             [contributions / languages]
+Instagram & TikTok → @whoslav.exe
+X → @lavslab
 
+<p align="center"> <code>made with caffeine & curiosity ♡</code> </p>
 
-                      find me
-
-             Instagram & TikTok(whoslav.exe) +  X(Lavslab)  
-
-
-              made with caffeine & curiosity ♡
 
 <p align="center">
   <code>while (alive) { learn(); build(); create(); }</code>
