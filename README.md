@@ -43,11 +43,7 @@ This is my little corner of GitHub for experimenting, learning, and bringing ide
 
 ---
 
-### < github stats />
 
-<!-- we'll add your stats here -->
-
----
 
 ### < find me />
 
