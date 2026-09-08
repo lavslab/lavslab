@@ -38,17 +38,7 @@ This is where I build little ideas, experiment with new technologies, and occasi
 🎨 learning **Graphic Design**
 💻 rebuilding my coding muscles one commit at a time
 
----
 
-### < featured experiment />
-
-💗 **lav-loves-you**
-
-A tiny Python project that draws a heart with a surprise at the end.
-
-> made with Python + an unnecessary amount of love ♡
-
----
 
 <p align="center">
   <code>while (alive) { learn(); build(); create(); }</code>
