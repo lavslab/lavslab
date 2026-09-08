@@ -17,7 +17,7 @@ I'm a Software Engineering Technology – Artificial Intelligence grad who loves
 This is where I build little ideas, experiment with new technologies, and occasionally spend way too long figuring out why my code isn't working.
 
 * 🤖 interested in AI + software development
-* 🎨 currently learning graphic design
+* 🎨 currently self-learning graphic design
 * 💻 building personal projects & sharpening my coding skills
 * 🌱 getting back into JavaScript + Python
 * 🧠 always learning something new
