@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lavslab-banner.png" width="100%" alt="Lav's Lab banner">
+  <img src="lavslab.png" width="100%" alt="Lav's Lab banner">
 </p>
 
 <h1 align="center">hi, i'm lav ♡</h1>
